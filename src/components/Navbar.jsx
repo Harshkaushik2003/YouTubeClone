@@ -23,6 +23,7 @@ const Navbar = () => {
       </Link>
       <Searchbar></Searchbar>
     </Stack>
+    
   );
 };
 
